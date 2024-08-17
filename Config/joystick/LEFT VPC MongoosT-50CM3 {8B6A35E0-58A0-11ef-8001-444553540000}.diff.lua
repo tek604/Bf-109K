@@ -148,6 +148,14 @@ local diff = {
 			},
 			["name"] = "Flaps EXTEND",
 		},
+		["d3010pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN62",
+				},
+			},
+			["name"] = "CB C101 - Dashboard UV Lights (toggle)",
+		},
 		["d3011pnilu3011cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -323,6 +331,22 @@ local diff = {
 				},
 			},
 			["name"] = "CB A100 - Generator OFF",
+		},
+		["dnilp3002unilcd9vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Horizon Cage DECREASE",
+		},
+		["dnilp3002unilcd9vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Horizon Cage INCREASE",
 		},
 	},
 }
